@@ -1,3 +1,7 @@
- 
-pinecone-client 
+
 huggingface_hub
+pandas
+python-dotenv
+pinecone
+fastapi
+uvicorn
