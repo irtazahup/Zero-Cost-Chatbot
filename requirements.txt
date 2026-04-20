@@ -1,7 +1,8 @@
 
 huggingface_hub
-pandas
+
 python-dotenv
 pinecone
 fastapi
 uvicorn
+groq
